@@ -4,7 +4,6 @@
 - 💞️ I have had the journey of working on the following amazing academic projects and other interesting works on the sideline that helped me develop my coding skills.
 - Derive the kinematics and design feedback control for 6-DOF manipulator,
 - classification using different ML algorithms
-- proposal of a design concept for human-robot interaction for fuselage assembly using VR
 - measurement of various objects using OpenCV and C++ without using any automation tools
 - implementing extended Kalman filter, path planning using dubins path and path following using carrot chase algorithm on a unicycle robot model.
 
